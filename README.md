@@ -91,12 +91,10 @@ To confirm that my program worked properly, I tested several different types of 
 
 ## 6. How to Run the Project  
 
-### Run Locally  
-For users who want to run the program on their own computer:
-pip install gradio
-python app.py
+### To Run Locally:  
+For users who want to run the program on their own computer: pip install gradio, python app.py
 
-### Run Online  
+### To Run Online:  
 The following link will lead users to the Hugging Face App:  
 https://huggingface.co/spaces/blainecain/cisc-121-linear-search-visualizer  
 
